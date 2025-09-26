@@ -1,0 +1,12 @@
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/bin/Debug/net8.0/TestAutomation.TestFramework.Core.deps.json
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/bin/Debug/net8.0/TestAutomation.TestFramework.Core.dll
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/bin/Debug/net8.0/TestAutomation.TestFramework.Core.pdb
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/obj/Debug/net8.0/TestAutomation.TestFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/obj/Debug/net8.0/TestAutomation.TestFramework.Core.AssemblyInfoInputs.cache
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/obj/Debug/net8.0/TestAutomation.TestFramework.Core.AssemblyInfo.cs
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/obj/Debug/net8.0/TestAutomation.TestFramework.Core.csproj.CoreCompileInputs.cache
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/obj/Debug/net8.0/TestAutomation.TestFramework.Core.sourcelink.json
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/obj/Debug/net8.0/TestAutomation.TestFramework.Core.dll
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/obj/Debug/net8.0/refint/TestAutomation.TestFramework.Core.dll
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/obj/Debug/net8.0/TestAutomation.TestFramework.Core.pdb
+/home/runner/work/TestAutomation/TestAutomation/src/TestFramework/TestAutomation.TestFramework.Core/obj/Debug/net8.0/ref/TestAutomation.TestFramework.Core.dll

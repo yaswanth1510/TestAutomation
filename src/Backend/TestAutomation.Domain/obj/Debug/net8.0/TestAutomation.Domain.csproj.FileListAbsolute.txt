@@ -1,0 +1,12 @@
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/bin/Debug/net8.0/TestAutomation.Domain.deps.json
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/bin/Debug/net8.0/TestAutomation.Domain.dll
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/bin/Debug/net8.0/TestAutomation.Domain.pdb
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/obj/Debug/net8.0/TestAutomation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/obj/Debug/net8.0/TestAutomation.Domain.AssemblyInfoInputs.cache
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/obj/Debug/net8.0/TestAutomation.Domain.AssemblyInfo.cs
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/obj/Debug/net8.0/TestAutomation.Domain.csproj.CoreCompileInputs.cache
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/obj/Debug/net8.0/TestAutomation.Domain.sourcelink.json
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/obj/Debug/net8.0/TestAutomation.Domain.dll
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/obj/Debug/net8.0/refint/TestAutomation.Domain.dll
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/obj/Debug/net8.0/TestAutomation.Domain.pdb
+/home/runner/work/TestAutomation/TestAutomation/src/Backend/TestAutomation.Domain/obj/Debug/net8.0/ref/TestAutomation.Domain.dll
